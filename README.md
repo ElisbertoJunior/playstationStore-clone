@@ -1,6 +1,6 @@
 # PlaystationStoreClone
 
-Sobre: Projeto academico com a funcao de praticar a criacao de componentes e subcomponentes, apesar de simples o projeto foi muito importante ne pratica de criacao de subcomponentes e na fixacao desses conceitos.
+## Sobre: Projeto academico com a funcao de praticar a criacao de componentes e subcomponentes, apesar de simples o projeto foi muito importante ne pratica de criacao de subcomponentes e na fixacao desses conceitos.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
